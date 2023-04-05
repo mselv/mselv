@@ -1,7 +1,18 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ...:eye:
+- go
+- elixir
+
+
 <!--
 **mselv/mselv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<details>
+<summary>🌱 I’m currently learning ...:eye: </summary>
+- go
+- elixir
+</details>
 
 Here are some ideas to get you started:
 
